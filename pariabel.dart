@@ -1,5 +1,3 @@
-import 'dart:math';
-
 void main() {
   //var tipe data ditentukan otomatis
   var nama = "jojo";
